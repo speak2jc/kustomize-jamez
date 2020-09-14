@@ -1,0 +1,5 @@
+bases:
+- ../../non
+
+patchesStrategicMerge:
+- ../../special/pod.yaml
